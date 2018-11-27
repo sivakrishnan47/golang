@@ -1,0 +1,3 @@
+[submodule "urlshort"]
+	path = urlshort
+	url = git@github.com:urlshort
